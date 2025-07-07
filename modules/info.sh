@@ -1,10 +1,7 @@
 #!/bin/bash
 
-# System Info Dashboard (Zenity GUI version)
-
 TMP_FILE="/tmp/system_info.txt"
 
-# Gather system information
 {
 echo "🖥️  System Dashboard"
 echo "════════════════════════════════════════"
@@ -21,7 +18,7 @@ echo ""
 echo "════════════════════════════════════════"
 } > "$TMP_FILE"
 
-# Display in a Zenity GUI box
+# GUI box
 zenity --text-info \
 --title="System Info Dashboard" \
 --filename="$TMP_FILE" \
