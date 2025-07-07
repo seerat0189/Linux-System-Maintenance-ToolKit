@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Linux System Maintenance Assistant - Zenity GUI Menu (Enhanced)
-
 # Check if Zenity is installed
 if ! command -v zenity &> /dev/null; then
     echo "'zenity' is not installed. Please install it using: sudo apt install zenity"
@@ -31,7 +29,7 @@ while true; do
     case $CHOICE in
         1) bash modules/info.sh ;;
         2) bash modules/cleanup.sh ;;
-        3) bash modules/packages.sh ;;  # Fixed filename from "packages.sh"
+        3) bash modules/packages.sh ;;  
         4) bash modules/service.sh ;;
         5) bash modules/disk.sh ;;
         6) bash modules/backup.sh ;;
