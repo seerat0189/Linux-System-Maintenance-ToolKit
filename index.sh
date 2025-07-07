@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Check if Zenity is installed
 if ! command -v zenity &> /dev/null; then
     echo "'zenity' is not installed. Please install it using: sudo apt install zenity"
     exit 1
