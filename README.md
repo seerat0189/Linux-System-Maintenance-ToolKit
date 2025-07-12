@@ -28,6 +28,17 @@ A simple, user-friendly **Zenity-based GUI tool** for performing essential syste
 
 ---
 
+## 📸 Screenshot
+
+> 🧰 A preview of the **Toolkit Main Menu** powered by Zenity:
+
+<p align="center">
+  <img src="assets/main_menu.png" alt="Main Menu Screenshot" width="300"/>
+  <br><strong>🖱️ Main Menu Dialog</strong>
+</p>
+
+---
+
 ## 📁 Folder Structure
 
 ```
