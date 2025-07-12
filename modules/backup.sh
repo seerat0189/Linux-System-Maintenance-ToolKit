@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Backup & Restore Utility (Enhanced UI)
-
 while true; do
     CHOICE=$(zenity --list \
         --title="🗂️ Backup & Restore Utility" \
