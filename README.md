@@ -98,5 +98,7 @@ Created with 🐧 and ⚙️ by:
 
 [![Yash Kumar Sharma](https://img.shields.io/badge/GitHub-Yash%20Kumar%20Sharma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-kumarsharma)
 [![Prabhnoor Singh](https://img.shields.io/badge/GitHub-Prabhnoor%20Singh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SinghPrabhnoor)
+[![Seerat Kaur](https://img.shields.io/badge/GitHub-Seerat%20Kaur-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seerat0189)
+[![Suraj Setia](https://img.shields.io/badge/GitHub-Suraj%20Setia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajsetia)
 
 ⭐ Star this repo if it helped you keep your system clean and efficient!
